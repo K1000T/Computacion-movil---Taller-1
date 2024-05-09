@@ -1,2 +1,2 @@
-# Computacion-movil---Taller-1
+# Computacion-movil - Taller 1
 Primer taller de computacion movil
