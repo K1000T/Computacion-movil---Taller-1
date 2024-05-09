@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TallerCompuMovil</string>
+    <string name="fab_content_desc">floating button</string>
+</resources>
